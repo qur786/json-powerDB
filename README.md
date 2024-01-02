@@ -1,8 +1,9 @@
-# JsonPowerDB
+# JSON PowerDB
 
-## This mini-project performs CRUD operations on an emlployee relation in JsonPowerDB.We can insert , remove , update and search employee details in this website. This project is made with JsonPowerDB , Html , CSS , Javascript ,jQuery , AJAX , Bootstrap.
-***
+This mini-project performs CRUD operations on an emlployee relation in JsonPowerDB.We can insert , remove , update and search employee details in this website. This project is made with JsonPowerDB , Html , CSS , Javascript ,jQuery , AJAX , Bootstrap.
+
 ## About JsonPowerDB
+
 JsonPowerDB is a Database Server with Developer friendly REST API services. It's a High Performance, Light Weight, Ajax Enabled, Serverless, Simple to Use, Real-time Database. Whether it's a Dynamic Website or a Mobile App or some Data Analytics Portal, the development is real fun and fast. Nothing better than trying it yourself. What all you need is a basic understanding of HTML, CSS, Bootstrap, and Javascript.
 
 ## features of JsonPowerDB are:
@@ -26,29 +27,28 @@ JsonPowerDB is a Database Server with Developer friendly REST API services. It's
 5. Page Caching.
 6. Existing Database applications to improve their reporting / analytics performance.
 7. Any software application that needs backend database.
-***
-# Screenshots :
+
+## Screenshots :
 
 ![Home Page](screenshots/index.jpg)
 
-***
+
 ![Insert Page](screenshots/insert.jpg)
 
-***
+
 ![Update Page 1](screenshots/update1.jpg)
 ![Update Page 2](screenshots/update2.jpg)
 
-***
 ![Remove Page](screenshots/remove.jpg)
 
-***
+
 ![Search Page](screenshots/search.jpg)
 
-***
+
 ![JsonPowerDB Page](screenshots/JsonPowerDB.jpg)
 
-***
-# Release History
+
+## Release History
 
 * 1.0.0 First Proper Release
 * 1.0.1 Updating The Readme.md file
